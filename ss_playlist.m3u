@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/1/14/LRT_Plius_Logo_%282022%29.svg", LRT Plius 540p
+https://raw.githubusercontent.com/EdemBey/lt/refs/heads/main/LRT_Plius_540p.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/1/14/LRT_Plius_Logo_%282022%29.svg", LRT Plius 720p
+https://raw.githubusercontent.com/EdemBey/lt/refs/heads/main/LRT_Plius_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/1/14/LRT_Plius_Logo_%282022%29.svg", LRT Plius 1080p
+https://raw.githubusercontent.com/EdemBey/lt/refs/heads/main/LRT_Plius_1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/0/09/LRT_televizija.svg", LRT TV 540p
+https://raw.githubusercontent.com/EdemBey/lt/refs/heads/main/LRT_TV_540p.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/0/09/LRT_televizija.svg", LRT TV 720p
+https://raw.githubusercontent.com/EdemBey/lt/refs/heads/main/LRT_TV_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/0/09/LRT_televizija.svg", LRT TV 1080p
+https://raw.githubusercontent.com/EdemBey/lt/refs/heads/main/LRT_TV_1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png", LRT Lituanica 540p
+https://raw.githubusercontent.com/EdemBey/lt/refs/heads/main/LRT_Lituanica_540p.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png", LRT Lituanica 720p
+https://raw.githubusercontent.com/EdemBey/lt/refs/heads/main/LRT_Lituanica_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png", LRT Lituanica 1080p
+https://raw.githubusercontent.com/EdemBey/lt/refs/heads/main/LRT_Lituanica_1080p.m3u8
